@@ -39,6 +39,6 @@ The software has been tested using the Junit 5 unit testing framework, which was
 
 ## Supporting Docs
 
-* <a href="https://github.com/Himanshugt/SoftwareDesignTask/blob/main/HLD.pdf"> **High Level Design** </a>
-* <a href="https://github.com/Himanshugt/SoftwareDesignTask/blob/main/LLD.pdf"> **Low Level Design** </a>
-* <a href="https://github.com/Himanshugt/SoftwareDesignTask/blob/main/Project%20Report.pdf"> **Project Report** </a>
+* <a href="https://github.com/SahilSinghzx77/Travel-Mania/blob/main/HLD.pdf"> **High Level Design** </a>
+* <a href="https://github.com/SahilSinghzx77/Travel-Mania/blob/main/LLD.pdf"> **Low Level Design** </a>
+* <a href="https://github.com/SahilSinghzx77/Travel-Mania/blob/main/Project%20Report.pdf"> **Project Report** </a>
